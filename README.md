@@ -27,3 +27,10 @@ streamlit run app.py
 
 * Изменение параметров модели или алгоритма.
 * Выбор параметров и переменных.
+
+Домашние задания по курсу:
+
+* [Домашнее задание 1](https://colab.research.google.com/drive/1VsBjQdqjsAYzGb1ppgFHKuc3daumh51W?usp=sharing)
+* [Домашнее задание 2](https://colab.research.google.com/drive/1ezugS7fx728frWgvYKloNBpdcSXMVB0m?usp=sharing)
+* [Домашнее задание 3](https://colab.research.google.com/drive/1w8Nf6wNKTJYvCK5AUA3j73ksJCFVKsz_?usp=sharing)
+* [Домашнее задание 4](https://colab.research.google.com/drive/1IaYs0lBZ2ulQeUlv5in_r1Ln2xn3_obf?usp=sharing)
