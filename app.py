@@ -1,15 +1,15 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.impute import SimpleImputer
+import numpy as np
+import pandas as pd
+import seaborn as sns
 import statsmodels.api as sm
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score
+import streamlit as st
+from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
+from sklearn.impute import SimpleImputer
+from sklearn.metrics import r2_score
+from sklearn.model_selection import train_test_split
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Загрузка данных
